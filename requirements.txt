@@ -7,7 +7,3 @@ openpyxl
 psutil
 google-play-scraper
 plotly
-pdfplumber
-python-docx
-openpyxl
-scapy
